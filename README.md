@@ -1,1 +1,3 @@
-"# sesion05-jpa" 
+# sesion05-jpa 
+
+Clase de Java Web Avanzado
